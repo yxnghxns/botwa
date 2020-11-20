@@ -1,4 +1,4 @@
-## REUZSC
+## yxnghxns
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -52,4 +52,4 @@ ket : ✅ : aktif
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ## DONASI
-* Gopay : 081271699856 Reuz
+* Gopay : 083177125037 ray

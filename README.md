@@ -18,6 +18,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > apt update && apt upgrade
 > git clone https://github.com/yxnghxns/botwa
 > cd botwa
+> npm i -g cwebp && npm i -g ytdl
+> npm i && npm i got
 > bash install.sh
 > node index.js
 ```
